@@ -6,3 +6,5 @@ __pycache__/*
 credentials.json
 token.pickle
 
+
+/tutorials/.ipynb_checkpoints/
